@@ -5,6 +5,11 @@
 */
 
 //CODE HERE
+function helloWorld() {
+  console.log('Hello, World!');
+}
+
+greeting();
 
 
 ////////////////// PROBLEM 2 ////////////////////
@@ -15,6 +20,11 @@
 */
 
 //CODE HERE
+function printName(name) {
+  console.log(name);
+}
+
+printName('Mason');
 
 
 ////////////////// PROBLEM 3 ////////////////////
